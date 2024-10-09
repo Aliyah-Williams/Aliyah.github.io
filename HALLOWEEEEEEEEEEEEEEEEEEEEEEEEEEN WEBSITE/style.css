@@ -1,0 +1,38 @@
+body{
+    background-color:purple;
+}
+h1{
+    font-size:65px;
+    color:yellowgreen;
+}
+
+pt{
+    font-size: 40px;
+    color:greenyellow;
+}
+
+li{
+    color:yellow;
+}
+
+a{
+    color:green;
+    font-size:50px;
+}
+   
+h2{
+    color:green;
+}
+
+h3{
+    color:yellow;
+    font-size:80px;
+}
+
+tr{color:greenyellow;
+    font-size:50px;
+    }
+
+    table, td, th {
+        border: 4px solid black ;
+    }
